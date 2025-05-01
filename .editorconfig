@@ -1,5 +1,0 @@
-PORT= 3000
-MONGODB_USER = dimas
-MONGODB_PASSWORD = Gqw7h4f2mQAugWYS
-MONGODB_URL = cluster0.cyyl2eu.mongodb.net/
-MONGODB_DB = e-shop
