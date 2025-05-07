@@ -1,4 +1,7 @@
+import PopularProducts from "../../modules/PopularProducts/PopularProducts"
 const MainPage = () => {
-    return <h1>Main Page</h1>
+    return (
+        <PopularProducts />
+    )
 }
 export default MainPage
